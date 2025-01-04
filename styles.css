@@ -1,15 +1,4 @@
 /* Your CSS Code here. */
- body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-    }
-.question {
-      margin-bottom: 20px;
-    }
-    .options {
-      margin-bottom: 20px;
-    }
 blockquote {
       max-width: 600px;
       margin: 10px auto;
